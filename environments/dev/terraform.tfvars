@@ -1,1 +1,1 @@
-project="ingka-sbp-oneplanpoc-dev"
+project="-dev"
