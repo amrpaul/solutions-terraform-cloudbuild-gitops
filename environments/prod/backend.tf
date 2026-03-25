@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "ingka-sbp-oneplanpoc-dev-tfstate"
+    bucket = "-tfstate"
     prefix = "env/prod"
   }
 }
